@@ -1,36 +1,53 @@
-<h1 align="center">Heisann 👋</h1>
+<div align="center">
 
-<p align="center">
-  Eg byggjer digitale løysingar innan gaming, helse, kart, appar og praktiske kvardagsproblem.
-</p>
+# 👋 Heisann
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Fokus-Gaming%20%7C%20Helse%20%7C%20Teknologi-10B981?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Stad-Ørsta-2563EB?style=for-the-badge">
-</p>
+### Eg gjer idear om til digitale løysingar
 
-## 🚀 Det eg arbeider med
+Eg byggjer appar, verktøy og konsept innan teknologi, helse, kart, gaming og praktiske kvardagsproblem.
 
-- 🎮 **TES** – gamingfellesskap, portal og Discord-bot
-- ⌚ **Garmin-prosjekt** – appar og verktøy for Garmin Connect IQ
-- 🏠 **Leigo** – digital løysing for utleige
-- 🗺️ **Norgeskart** – kartbaserte tenester
-- 🧠 Digitale verktøy for helse og kommunale tenester
-- 🎲 Spelutvikling og Roblox-prosjekt
+<br>
 
-## 📊 GitHub-statistikk
+![Product Builder](https://img.shields.io/badge/PRODUCT_BUILDER-111827?style=for-the-badge)
+![AI Development](https://img.shields.io/badge/AI_ASSISTED_DEVELOPMENT-7C3AED?style=for-the-badge)
+![Ørsta](https://img.shields.io/badge/ØRSTA-NOREG-2563EB?style=for-the-badge)
 
-<p align="center">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=amkomeister&show_icons=true&theme=tokyonight&hide_border=true">
-  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=amkomeister&layout=compact&theme=tokyonight&hide_border=true">
-</p>
-
-## 🔗 Utvalde prosjekt
-
-- [TES – gamingfellesskapet i Ørsta](https://github.com/amkomeister/TES)
+</div>
 
 ---
 
-<p align="center">
-  Byggjer, lærer og testar nye idear 🚀
-</p>
+## 🚀 Dette byggjer eg
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📱 Appar og digitale produkt
+
+- Garmin Connect IQ-appar
+- Leigo – løysingar for utleige
+- Kartbaserte verktøy
+- Kalkulatorar og avgjerdsstøtte
+- Automatisering og integrasjonar
+
+</td>
+<td width="50%" valign="top">
+
+### 🎮 Teknologi og utvikling
+
+- Spelutvikling og Roblox
+- Nettsider og digitale portalar
+- Discord-botar
+- API-integrasjonar
+- Eksperimentering med AI og agentar
+
+</td>
+</tr>
+</table>
+
+## 🎯 Målet mitt
+
+Eg likar å ta eit reelt behov, forme det til ein konkret idé og byggje ei løysing som faktisk kan brukast.
+
+```text
+IDÉ  →  PLAN  →  PROTOTYPE  →  TESTING  →  FERDIG PRODUKT

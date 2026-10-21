@@ -1,4 +1,4 @@
-<h1 align="center">Hei, eg er Amir 👋</h1>
+<h1 align="center">Heisann 👋</h1>
 
 <p align="center">
   Eg byggjer digitale løysingar innan gaming, helse, kart, appar og praktiske kvardagsproblem.

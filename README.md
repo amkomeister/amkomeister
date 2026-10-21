@@ -66,12 +66,6 @@ I build apps, tools and concepts across technology, health, mapping, gaming and 
 </tr>
 </table>
 
-<div align="center">
-
-[![Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=amkomeister&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/amkomeister)
-
-</div>
-
 ## 🎯 My Goal
 
 I enjoy taking a real problem, shaping it into a clear idea and building a solution that people can actually use.

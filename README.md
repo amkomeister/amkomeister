@@ -72,3 +72,9 @@ I enjoy taking a real problem, shaping it into a clear idea and building a solut
 
 ```text
 IDEA  →  PLAN  →  PROTOTYPE  →  TEST  →  REAL PRODUCT
+
+amkomeister/
+├── README.md
+└── .github/
+    └── workflows/
+        └── snake.yml

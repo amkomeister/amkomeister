@@ -1,16 +1,17 @@
 <div align="center">
 
-# 👋 Hello
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=750&lines=Building+practical+digital+products;Exploring+AI%2C+apps+and+automation;Turning+real+problems+into+working+solutions"
-    alt="Typing animation"
-  />
-</p>
+# 👋 Hi, I'm Amir
 
 ### Turning ideas into practical digital products
 
 I build apps, tools and concepts across technology, health, mapping, gaming and everyday problem-solving.
+
+<br>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=750&lines=Building+practical+digital+products;Exploring+AI%2C+apps+and+automation;Turning+real+problems+into+working+solutions;Always+learning.+Always+building."
+  alt="Typing animation"
+/>
 
 <br>
 
@@ -72,4 +73,3 @@ I enjoy taking a real problem, shaping it into a clear idea and building a solut
 
 ```text
 IDEA  →  PLAN  →  PROTOTYPE  →  TEST  →  REAL PRODUCT
-

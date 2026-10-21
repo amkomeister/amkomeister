@@ -1,53 +1,68 @@
 <div align="center">
 
-# 👋 Heisann
+# 👋 Hello
 
-### Eg gjer idear om til digitale løysingar
+### Turning ideas into practical digital products
 
-Eg byggjer appar, verktøy og konsept innan teknologi, helse, kart, gaming og praktiske kvardagsproblem.
+I build apps, tools and concepts across technology, health, mapping, gaming and everyday problem-solving.
 
 <br>
 
-![Product Builder](https://img.shields.io/badge/PRODUCT_BUILDER-111827?style=for-the-badge)
+![Product Builder](https://img.shields.io/badge/DIGITAL_PRODUCT_BUILDER-111827?style=for-the-badge)
 ![AI Development](https://img.shields.io/badge/AI_ASSISTED_DEVELOPMENT-7C3AED?style=for-the-badge)
-![Ørsta](https://img.shields.io/badge/ØRSTA-NOREG-2563EB?style=for-the-badge)
+![Location](https://img.shields.io/badge/ØRSTA-NORWAY-2563EB?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🚀 Dette byggjer eg
+## 🚀 What I Build
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
 
-### 📱 Appar og digitale produkt
+<td width="33%" valign="top">
 
-- Garmin Connect IQ-appar
-- Leigo – løysingar for utleige
-- Kartbaserte verktøy
-- Kalkulatorar og avgjerdsstøtte
-- Automatisering og integrasjonar
+### 📱 Apps & Products
 
-</td>
-<td width="50%" valign="top">
-
-### 🎮 Teknologi og utvikling
-
-- Spelutvikling og Roblox
-- Nettsider og digitale portalar
-- Discord-botar
-- API-integrasjonar
-- Eksperimentering med AI og agentar
+- Garmin Connect IQ apps
+- Rental solutions
+- Map-based tools
+- Calculators and decision support
+- Digital services for real-world needs
 
 </td>
+
+<td width="33%" valign="top">
+
+### 🎮 Gaming & Experiences
+
+- Game development and Roblox
+- Gaming and esports concepts
+- Discord bots
+- Community platforms
+- Interactive digital experiences
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🤖 AI & Integrations
+
+- AI-assisted development
+- API integrations
+- Automated workflows
+- AI agents and MCP
+- Rapid prototyping and testing
+
+</td>
+
 </tr>
 </table>
 
-## 🎯 Målet mitt
+## 🎯 My Goal
 
-Eg likar å ta eit reelt behov, forme det til ein konkret idé og byggje ei løysing som faktisk kan brukast.
+I enjoy taking a real problem, shaping it into a clear idea and building a solution that people can actually use.
 
 ```text
-IDÉ  →  PLAN  →  PROTOTYPE  →  TESTING  →  FERDIG PRODUKT
+IDEA  →  PLAN  →  PROTOTYPE  →  TEST  →  REAL PRODUCT
